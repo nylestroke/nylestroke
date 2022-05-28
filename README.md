@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Infromation
+## Information
 - 🔭 I’m currently working on Watching Movie App
 - 🌱 I’m currently learning JavaScript & PHP
 - 📫 How to reach me: [nylestroke.me](https://nylestroke.me) (you can write to me using contact form below the website)
