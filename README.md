@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-## Information
-- 🔭 I’m currently working on Watching Movie App
-- 🌱 I’m currently learning C#
-- 📫 How to reach me: [nylestroke.me](https://nylestroke.me) (you can write to me using contact form below the website)
-
 ## Connect with me
 * [Facebook](https://facebook.com/nylestroke)
 * [Instagram](https://instagram.com/nylestroke)
