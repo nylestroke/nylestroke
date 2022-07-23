@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ## Connect with me
 * [Facebook](https://facebook.com/nylestroke)
 * [Instagram](https://instagram.com/nylestroke)
